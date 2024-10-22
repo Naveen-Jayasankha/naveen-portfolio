@@ -28,7 +28,7 @@ export default function Home() {
             </div>
             <div className='w-1/2 flex flex-col items-center self-center'>
               <AnimatedText text="Turning Vision Into Reality With Code And Design." className='!text-6xl !text-left ' />
-                <p className='my-4 text-base font-medium'>
+                <p className='my-4 text-base font-medium text-justify'>
                 As a skilled front-end developer and UI/UX designer, I am dedicated to turning ideas into innovative web applications.
                 Explore my latest projects and Designs, showcasing my expertise in Angular, web development, and user experience design.
                 </p>
