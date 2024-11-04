@@ -56,46 +56,33 @@ const Education = () => {
                 <ul className="w-full flex flex-col items-start justify-between ml-4">
                     <Details
 
-                        type=" Associate Engineer UI/UX " company="Virtusa"
-                        companyLink="www.virtusa.com"
-                        time="2022-Present" place="752 Dr Danister De Silva Mawatha, Colombo"
-                        info="At Virtusa, I primarily focus on front-end development using Angular However, 
-I often work closely with the design team to ensure that the user interfaces we create 
-are not only visually appealing but also functional and user-friendly. My experience with 
-Figma allows me to contribute directly to the UI/UX process by creating prototypes and user
- flows. I make sure that the designs I work on translate into responsive, accessible, and 
- efficient code, which provides a seamless experience for users."
+                        type=" BSc (Hons) in Information Technology"
+                        time="2019-2022" 
+                        place="General Sir John Kotelawela Defence University"
+                        info="I hold a Bachelor of Science in IT from KDU, designed in line with 
+                        ACM/IEEE international guidelines. The program provided a deep understanding
+                         of software technologies, software engineering, network and web technologies,
+                          along with leadership and industrial knowledge. It emphasized achieving organizational 
+                          goals with IT, systems thinking, business problem analysis, communication, and teamwork 
+                          skills in both face-to-face and virtual environments."
 
 
                     />
                     <Details
 
-                        type=" Associate Engineer UI/UX " company="Virtusa"
-                        companyLink="www.virtusa.com"
-                        time="2022-Present" place="752 Dr Danister De Silva Mawatha, Colombo"
-                        info="At Virtusa, I primarily focus on front-end development using Angular However, 
-I often work closely with the design team to ensure that the user interfaces we create 
-are not only visually appealing but also functional and user-friendly. My experience with 
-Figma allows me to contribute directly to the UI/UX process by creating prototypes and user
- flows. I make sure that the designs I work on translate into responsive, accessible, and 
- efficient code, which provides a seamless experience for users."
+                            type=" BSc (Hons) in Information Technology"
+                            time="2019-2022" 
+                            place="General Sir John Kotelawela Defence University"
+                            info="I hold a Bachelor of Science in IT from KDU, designed in line with 
+                            ACM/IEEE international guidelines. The program provided a deep understanding
+                            of software technologies, software engineering, network and web technologies,
+                            along with leadership and industrial knowledge. It emphasized achieving organizational 
+                            goals with IT, systems thinking, business problem analysis, communication, and teamwork 
+                            skills in both face-to-face and virtual environments."
 
 
                     />
-                    <Details
-
-                        type=" Associate Engineer UI/UX " company="Virtusa"
-                        companyLink="www.virtusa.com"
-                        time="2022-Present" place="752 Dr Danister De Silva Mawatha, Colombo"
-                        info="At Virtusa, I primarily focus on front-end development using Angular However, 
-I often work closely with the design team to ensure that the user interfaces we create 
-are not only visually appealing but also functional and user-friendly. My experience with 
-Figma allows me to contribute directly to the UI/UX process by creating prototypes and user
- flows. I make sure that the designs I work on translate into responsive, accessible, and 
- efficient code, which provides a seamless experience for users."
-
-
-                    />
+                    
                 </ul>
             </div>
         </div>

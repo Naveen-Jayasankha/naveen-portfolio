@@ -8,6 +8,7 @@ import { useInView, useMotionValue, useSpring } from 'framer-motion';
 import Skills from '@/components/Skills';
 import Experience from '@/components/Experience'
 import Education from '@/components/Education';
+import Certifications from '@/components/Certifications'
 
 
 
@@ -99,8 +100,10 @@ bg-light p-8
 
             <Skills/>
             <Experience/>
-            </Layout>
             <Education />
+            <Certifications />
+            </Layout>
+            
             
         </main>    
      </>

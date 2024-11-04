@@ -58,7 +58,7 @@ const Experience = () => {
                     <Details
 
                         position=" Associate Engineer UI/UX " company="Virtusa"
-                        companyLink="www.virtusa.com"
+                        companyLink="https://www.virtusa.com"
                         time="2022-Present" address="752 Dr Danister De Silva Mawatha, Colombo"
                         Work="At Virtusa, I primarily focus on front-end development using Angular However, 
 I often work closely with the design team to ensure that the user interfaces we create 
@@ -71,32 +71,16 @@ Figma allows me to contribute directly to the UI/UX process by creating prototyp
                     />
                     <Details
 
-                        position=" Associate Engineer UI/UX " company="Virtusa"
-                        companyLink="www.virtusa.com"
-                        time="2022-Present" address="752 Dr Danister De Silva Mawatha, Colombo"
-                        Work="At Virtusa, I primarily focus on front-end development using Angular However, 
-I often work closely with the design team to ensure that the user interfaces we create 
-are not only visually appealing but also functional and user-friendly. My experience with 
-Figma allows me to contribute directly to the UI/UX process by creating prototypes and user
- flows. I make sure that the designs I work on translate into responsive, accessible, and 
- efficient code, which provides a seamless experience for users."
+                        position=" Associate Image Processor" company="OREL IT"
+                        companyLink="https://www.orelit.com/"
+                        time="2018-2019" address="No 97, Olcot St, Galle,"
+                        Work="At Orel IT, I worked as an Associate image processor on the RDRM project, where I analyzed video data 
+                        for automated car systems, marking road features to improve the accuracy and reliability of self-driving 
+                        vehicles."
 
 
                     />
-                    <Details
-
-                        position=" Associate Engineer UI/UX " company="Virtusa"
-                        companyLink="www.virtusa.com"
-                        time="2022-Present" address="752 Dr Danister De Silva Mawatha, Colombo"
-                        Work="At Virtusa, I primarily focus on front-end development using Angular However, 
-I often work closely with the design team to ensure that the user interfaces we create 
-are not only visually appealing but also functional and user-friendly. My experience with 
-Figma allows me to contribute directly to the UI/UX process by creating prototypes and user
- flows. I make sure that the designs I work on translate into responsive, accessible, and 
- efficient code, which provides a seamless experience for users."
-
-
-                    />
+                    
                 </ul>
             </div>
         </div>
